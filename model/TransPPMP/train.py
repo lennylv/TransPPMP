@@ -3,7 +3,7 @@ import numpy as np
 from model import get_model
 import os
 from sklearn.utils import class_weight
-#批量梯度下降,迭代训练模型
+
 # class_weights=class_weight.compute_class_weight('balanced',np.unique(train_y),train_y)
 # reduceLR=tf.keras.callbacks.ReduceLROnPlateau(monitor='val_loss',factor=0.2,patience=5)
 
