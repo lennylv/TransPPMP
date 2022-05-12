@@ -1,0 +1,10 @@
+1.human_map2essential.lst
+2.gencard.lst
+3.list_gene.lst
+4.list_node.lst
+5.readme.blast
+6. All protein prediction structures in the folder named TargetPDB
+The above data were provided by the authors of the ENTPRISE-X system. 
+We are not authorized to provide these data.
+References:
+Zhou H, Gao M, Skolnick J. ENTPRISE-X: Predicting disease-associated frameshift and nonsense mutations[J]. PLoS One, 2018, 13(5): e0196849.
